@@ -1,6 +1,5 @@
 # glocate
-
-[!][Alt Text](https://raw.githubusercontent.com/Daniel-f-morine/gif/refs/heads/main/glocate_gifs/demo1.gif)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8f9b8811-8fee-455b-80f9-3896c951a61d" />
 
 ## Requirements
 - Python 3.13 (may work with higher versions, but not planned)
