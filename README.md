@@ -1,6 +1,6 @@
 # glocate
 
-[!][Alt Text](https://raw.githubusercontent.com/Daniel-f-morine/gif/f74e668c66b3285af47798e1069978e7e8e8894f/glocate_gifs/demo1.gif)
+[!][Alt Text](https://raw.githubusercontent.com/Daniel-f-morine/gif/refs/heads/main/glocate_gifs/demo1.gif)
 
 ## Requirements
 - Python 3.13 (may work with higher versions, but not planned)
