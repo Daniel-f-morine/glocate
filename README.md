@@ -1,5 +1,5 @@
 # glocate
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/65f4d8ae-5acf-4b47-ac9f-04c12891714b" />
+![1](https://github.com/user-attachments/assets/64e72dee-c517-4f1a-8785-87c016cea21a)
 
 ## Requirements
 - Python 3.13 (may work with higher versions, but not planned)
